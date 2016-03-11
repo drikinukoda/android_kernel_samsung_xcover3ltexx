@@ -1,7 +1,0 @@
-/dts-v1/;
-#include "pxa1L88-dkb.dtsi"
-/ {
-	compatible = "marvell,pxa1L88-dkb-v20", "marvell,pxa1L88";
-	soc {
-	};
-};
